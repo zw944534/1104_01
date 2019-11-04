@@ -5,3 +5,7 @@ function count (a,b){
 function getAjax(){
     
 }
+
+function ninenine(){
+    
+}
